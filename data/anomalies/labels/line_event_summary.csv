@@ -1,0 +1,3 @@
+anomaly_event_id,anomaly_type,entity_type,entity_id,start_timestamp,end_timestamp,severity,affected_measurement,number_of_rows
+3,line_overload,line,1,2026-01-01 19:30:00,2026-01-01 20:15:00,0.5,loading_percent,4
+4,line_overload,line,5,2026-01-01 22:00:00,2026-01-01 22:30:00,0.3999999999999999,loading_percent,3

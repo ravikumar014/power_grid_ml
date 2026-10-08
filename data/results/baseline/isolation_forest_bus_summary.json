@@ -1,0 +1,15 @@
+{
+    "entity": "bus",
+    "n_estimators": 300,
+    "contamination": "auto",
+    "random_state": 42,
+    "threshold": 0.08238914399636924,
+    "train_samples": 1881,
+    "validation_samples": 627,
+    "test_samples": 660,
+    "train_score_mean": -0.03743196626869612,
+    "validation_score_mean": -0.0015643714807678764,
+    "test_score_mean": -0.011935463517981772,
+    "test_anomalies": 25,
+    "test_anomaly_fraction": 0.03787878787878788
+}

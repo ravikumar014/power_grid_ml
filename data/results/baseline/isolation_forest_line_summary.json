@@ -1,0 +1,15 @@
+{
+    "entity": "line",
+    "n_estimators": 300,
+    "contamination": "auto",
+    "random_state": 42,
+    "threshold": 0.14642946386130953,
+    "train_samples": 2109,
+    "validation_samples": 703,
+    "test_samples": 740,
+    "train_score_mean": -0.0054801589019662115,
+    "validation_score_mean": 0.0127264596132008,
+    "test_score_mean": 0.007092381983366219,
+    "test_anomalies": 34,
+    "test_anomaly_fraction": 0.04594594594594595
+}

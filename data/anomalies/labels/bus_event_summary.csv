@@ -1,0 +1,4 @@
+anomaly_event_id,anomaly_type,entity_type,entity_id,start_timestamp,end_timestamp,severity,affected_measurement,number_of_rows
+0,voltage_deviation,bus,17,2026-01-01 19:00:00,2026-01-01 19:45:00,0.1,voltage_pu,4
+1,power_spike,bus,14,2026-01-01 20:00:00,2026-01-01 20:30:00,0.5,active_power_mw,3
+2,sensor_spike,bus,29,2026-01-01 21:00:00,2026-01-01 21:00:00,0.2,voltage_pu,1

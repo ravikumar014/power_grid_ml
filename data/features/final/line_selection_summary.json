@@ -1,0 +1,10 @@
+[
+  {
+    "initial_features":88,
+    "removed_missing":36,
+    "removed_variance":4,
+    "removed_correlation":34,
+    "final_features":14,
+    "pca_enabled":false
+  }
+]

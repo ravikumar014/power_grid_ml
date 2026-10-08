@@ -1,0 +1,15 @@
+feature
+current_from_ka_mean
+current_from_ka_std
+current_from_ka_variance
+current_from_ka_skewness
+current_from_ka_kurtosis
+current_from_ka_min
+absolute_current_from_ka
+current_difference_ka
+absolute_current_difference_ka
+current_imbalance
+from_bus_degree
+to_bus_degree
+edge_betweenness_centrality
+edge_in_operational_graph
